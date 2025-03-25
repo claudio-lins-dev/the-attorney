@@ -1,7 +1,7 @@
 # 🧑🏻‍⚖️ The Attorney
 
 <div align="center">
-<img src="https://github.com/claudio-lins/the-attorney-web/raw/main/assets/logo.jpeg" width="350" />
+<img src="[https://github.com/claudio-lins/the-attorney-web/raw/main/assets/logo.jpeg](https://github.com/claudio-lins-dev/the-attorney/blob/main/assets/logo.jpeg?raw=true)" width="350" />
 </div>
 
 <div data-badges>
