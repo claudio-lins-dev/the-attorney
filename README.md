@@ -1,11 +1,7 @@
 # 🧑🏻‍⚖️ The Attorney
 
 <div align="center">
-<img src="https://github.com/claudio-lins/the-attorney-web/raw/main/.gitassets/capa.png" width="350" />
-
-  <img src="https://img.shields.io/github/stars/claudio-lins/the-attorney-web?style=for-the-badge" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/claudio-lins/the-attorney-web?style=for-the-badge" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/issues/claudio-lins/the-attorney-web?style=for-the-badge" alt="GitHub issues" />
+<img src="https://github.com/claudio-lins/the-attorney-web/raw/main/assets/logo.jpeg" width="350" />
 </div>
 
 <div data-badges>
